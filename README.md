@@ -1,4 +1,4 @@
-# README for Movie Recommendation System Project
+# Movie Recommendation System Project
 
 ## Project Overview
 
